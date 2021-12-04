@@ -5,8 +5,9 @@ Monte Carlo Pricing Model developed using Github Co-Pilot
 Simple model to price options using python
 
 ## Setup
-## Install required packages
 Install and activate the python virtual environment
+
+Install the required packages
 
 pip install numpy
 
