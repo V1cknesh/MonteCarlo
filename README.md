@@ -7,8 +7,12 @@ Simple model to price options using python
 ## Setup
 ## Install required packages
 Install and activate the python virtual environment
+
 pip install numpy
+
 pip install matplotlib
+
 pip install scipy
-python MonteCarlo.py
+
+python MonteCarloStockPricing.py
 
